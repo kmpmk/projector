@@ -69,3 +69,18 @@ header ul li a
 {
   height:40px;
 }
+
+.divide
+{
+  display:inline-block;
+  width:50%;
+  padding-left:10px;
+}
+.language_div
+{
+  
+ padding-left:0;
+}
+form{
+  white-space: nowrap;
+}
